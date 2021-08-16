@@ -260,7 +260,7 @@ assistant .sidebar {
   background-color: #32302f;
   border-top: 1px solid #3c3836; }
   assistant .sidebar:backdrop {
-    background-color: #3c3836;
+    background-color: #7c6f64;
     border-color: #282828; }
 
 assistant.csd .sidebar {
@@ -3112,7 +3112,7 @@ assistant {
     border-top: 1px solid #3c3836;
     border-bottom-left-radius: 4px; }
     assistant .sidebar:backdrop {
-      background-color: #3c3836;
+      background-color: #7c6f64;
       border-color: #282828; }
   assistant.csd .sidebar {
     border-top-style: none; }
@@ -4142,7 +4142,7 @@ stacksidebar row {
 /*******************************************************************/
 placessidebar.sidebar {
   background-color: transparent;
-  background-image: linear-gradient(to right, #252a34 40px, #2a2f3a 35px, #2a2f3a 36px, #2a2f3a 36px, #2a2f3a 99%, #2a2f3a 100%); }
+  background-image: linear-gradient(to right, #7c6f64 40px, #2a2f3a 35px, #2a2f3a 36px, #2a2f3a 36px, #2a2f3a 99%, #2a2f3a 100%); }
   placessidebar.sidebar row.sidebar-row.sidebar-row .sidebar-icon {
     margin-left: -14px;
     margin-right: 12px;
@@ -5314,7 +5314,7 @@ button.raven-trigger {
         border-radius: 0; }
       .raven .raven-header button:active, .raven .raven-header button:checked {
         color: #7c6f64;
-        background-color: #252a34; }
+        background-color: #3c3836; }
       .raven .raven-header button:disabled {
         color: #f2e5bc; }
   .raven list {
@@ -6377,7 +6377,7 @@ ConversationListView {
   -gtk-icon-transform: scale(0.72); }
 
 scrolledwindow.sidebar treeview.view {
-  background: #252a34;
+  background: #3c3836;
   padding: 1.5px; }
 
 /* path-bar of thunar */
