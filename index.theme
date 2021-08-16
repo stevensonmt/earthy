@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=earthy
+Comment=desaturated earth tone theme influenced by gruvbox color scheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=earthy
+IconTheme=gnome
+CursorTheme=Menda
+ButtonLayout=menu:minimize,maximize,close
