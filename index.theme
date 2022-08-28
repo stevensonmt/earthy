@@ -1,11 +1,11 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=earthy
-Comment=flat and desaturated earth tone theme influenced by gruvbox color scheme
+Name=fifties
+Comment=flat and desaturated theme with color palette inspired by vintage print media
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=earthy
-IconTheme=gnome
-CursorTheme=Menda
+GtkTheme=fifties
+IconTheme=Zafiro Dark
+CursorTheme=Bibata Spirit
 ButtonLayout=menu:minimize,maximize,close
